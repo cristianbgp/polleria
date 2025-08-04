@@ -1,0 +1,19 @@
+{
+  "name": "polleria",
+  "version": "0.0.1",
+  "description": "pollerIA",
+  "repository": "git@github.com:cristianbgp/polleria.git",
+  "keywords": [
+    "pollo"
+  ],
+  "author": "cristianbgp <cristian.granda.pastor@gmail.com>",
+  "license": "MIT",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
